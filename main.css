@@ -1,0 +1,13 @@
+.header {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.blocks > div {
+    height: 200px;
+    width: 200px;
+    border: solid cyan 5px;
+    float: left;
+    margin: 20px;
+}
