@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94d55934-e3ab-4306-83d0-6a10389cfb84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/boom.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/clap.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/hihat.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/kick.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/openhat.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/ride.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/snare.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/tink.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/tom.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript30.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +23,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascript30/03 - CSS Variables/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascript30/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -61,11 +47,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584873536451</updated>
-      <workItem from="1584873537973" duration="495000" />
+      <workItem from="1584873537973" duration="1243000" />
+      <workItem from="1584920736746" duration="1606000" />
+      <workItem from="1585004839918" duration="2713000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="562" y="114" key="CommitChangelistDialog2" timestamp="1584920915996">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="562" y="114" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1584920915996" />
+    <state x="785" y="456" key="Github.CreateGistDialog" timestamp="1584920874947">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="785" y="456" key="Github.CreateGistDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1584920874947" />
+    <state x="592" y="275" key="Vcs.Push.Dialog.v2" timestamp="1584921136540">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="275" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1584921136540" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1585004839368">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1585004839368" />
   </component>
 </project>
