@@ -4,7 +4,6 @@
     <list default="true" id="94d55934-e3ab-4306-83d0-6a10389cfb84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascript30/03 - CSS Variables/index.html" useBuiltInWebServerPort="true">
@@ -51,7 +51,8 @@
       <updated>1584873536451</updated>
       <workItem from="1584873537973" duration="1243000" />
       <workItem from="1584920736746" duration="1606000" />
-      <workItem from="1585004839918" duration="5129000" />
+      <workItem from="1585004839918" duration="7871000" />
+      <workItem from="1585357533780" duration="3146000" />
     </task>
     <servers />
   </component>
@@ -63,6 +64,10 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="562" y="114" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1584920915996" />
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1585117803675">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1585117803675" />
     <state x="785" y="456" key="Github.CreateGistDialog" timestamp="1584920874947">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -71,9 +76,9 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="592" y="275" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1584921136540" />
-    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1585004839368">
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1585357534370">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1585004839368" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1585357534370" />
   </component>
 </project>
