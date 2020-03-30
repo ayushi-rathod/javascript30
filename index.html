@@ -10,15 +10,22 @@
             <div><a target="_blank" href="02%20-%20JS%20and%20CSS%20Clock/index.html"><h1>02</h1><br/>JS and CSS Clock</a></div>
             <div><a target="_blank" href="03%20-%20CSS%20Variables/index.html"><h1>03</h1><br/>CSS Variables</a></div>
             <div><a target="_blank" href="04%20-%20Array%20Cardio%20Day%201/index.html"><h1>04</h1><br/>Array Cardio Day 1</a></div>
+            <div><a target="_blank" href="05%20-%20Flex%20Panel%20Gallery/index.html"><h1>05</h1><br/>Flex Panel Gallery</a></div>
+            <div><a target="_blank" href="06%20-%20Type%20Ahead/index.html"><h1>06</h1><br/>Ajax Type Ahead</a></div>
         </div>
     </body>
 
     <script>
         var divs = document.querySelectorAll('.blocks div');
-        function hoveredDiv() {
+        function onMouseEnter() {
             this.classList.add('highlight');
         }
 
-        divs.forEach(div => div.addEventListener('mouseenter', hoveredDiv));
+        function onMouseLeave() {
+            this.classList.remove('highlight');
+        }
+
+        divs.forEach(div => div.addEventListener('mouseenter', onMouseEnter));
+        divs.forEach(div => div.addEventListener('mouseleave', onMouseLeave));
     </script>
 </html>
