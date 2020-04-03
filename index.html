@@ -2,16 +2,34 @@
     <head>
         <link rel="stylesheet" href="main.css">
     </head>
-
     <body>
-        <div>
-            <div class="heading">Javascript 30</div>
-            <div class="desc">An amazing serie of mini projects with VanillaJS by Wes Bos.
-                This amazing course can be found <a href="https://javascript30.com/">here</a>, wesbos repo with original files and solutions are here.</div>
-        </div>
+        <div class="header">Javascript 30</div>
+        <div class="desc"></div>
         <div class="blocks">
-            <div class="block"><a href="01-Javascript%20Drum%20Kit/index.html">01-Javascript Drum Kit</a></div>
-            <div class="block"><a href="02-CSS%20+%20Js%20Clock/index.html">02-CSS + JS Clock</a></div>
+            <div><a target="_blank" href="01%20-%20JavaScript%20Drum%20Kit/index.html"><h1>01</h1><br/>Javascript Drum Kit</a></div>
+            <div><a target="_blank" href="02%20-%20JS%20and%20CSS%20Clock/index.html"><h1>02</h1><br/>JS and CSS Clock</a></div>
+            <div><a target="_blank" href="03%20-%20CSS%20Variables/index.html"><h1>03</h1><br/>CSS Variables</a></div>
+            <div><a target="_blank" href="04%20-%20Array%20Cardio%20Day%201/index.html"><h1>04</h1><br/>Array Cardio Day 1</a></div>
+            <div><a target="_blank" href="05%20-%20Flex%20Panel%20Gallery/index.html"><h1>05</h1><br/>Flex Panel Gallery</a></div>
+            <div><a target="_blank" href="06%20-%20Type%20Ahead/index.html"><h1>06</h1><br/>Ajax Type Ahead</a></div>
+            <div><a target="_blank" href="07%20-%20Array%20Cardio%20Day%202/index.html"><h1>07</h1><br/>Array Cardio Day 2</a></div>
+            <div><a target="_blank" href="08%20-%20Fun%20with%20HTML5%20Canvas/index.html"><h1>08</h1><br/>Fun with HTML5 Canvas</a></div>
+            <div><a target="_blank" href="09%20-%20Dev%20Tools%20Domination/index.html"><h1>09</h1><br/>Dev Tools Domination</a></div>
+            <div><a target="_blank" href="10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html"><h1>10</h1><br/>Hold Shift and Check Checkboxes</a></div>
         </div>
     </body>
+
+    <script>
+        var divs = document.querySelectorAll('.blocks div');
+        function onMouseEnter() {
+            this.classList.add('highlight');
+        }
+
+        function onMouseLeave() {
+            this.classList.remove('highlight');
+        }
+
+        divs.forEach(div => div.addEventListener('mouseenter', onMouseEnter));
+        divs.forEach(div => div.addEventListener('mouseleave', onMouseLeave));
+    </script>
 </html>
